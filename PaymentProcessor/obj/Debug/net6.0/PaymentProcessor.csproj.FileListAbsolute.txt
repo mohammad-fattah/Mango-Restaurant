@@ -1,0 +1,12 @@
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\bin\Debug\net6.0\PaymentProcessor.deps.json
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\bin\Debug\net6.0\PaymentProcessor.dll
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\bin\Debug\net6.0\PaymentProcessor.pdb
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.csproj.AssemblyReference.cache
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.AssemblyInfoInputs.cache
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.AssemblyInfo.cs
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.csproj.CoreCompileInputs.cache
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.dll
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\refint\PaymentProcessor.dll
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.pdb
+D:\Working Area\Projects\MicroService\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\ref\PaymentProcessor.dll
